@@ -3256,11 +3256,11 @@ Price AED 79.99
     "Gloves Included in the Box",
     "Wall-Mounted, Space-Saving Design",
   ],
-  section2image: Product180,
+  section2image: Product225,
 
   // 🔹 Section 3 – Use cases / lifestyle
   section3title: "From Stress Relief to Full-Body Training – Fitness Just Became Fun",
-  section3image: Product181,
+  section3image: Product223,
   section3points: [
     "Home Fitness Mode – burn calories & tone your body",
     "Kids’ Energy Burner – safe, fun alternative to screen time",
@@ -3310,7 +3310,7 @@ Price AED 79.99
     ],
   },
 
-  section5image: Product182,
+  section5image: Product221,
 
   // 🔹 Guarantee
   Guaranteetitle: "Try It Risk-Free for 30 Days",
