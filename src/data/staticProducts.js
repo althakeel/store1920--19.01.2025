@@ -3229,7 +3229,7 @@ Price AED 79.99
       name: "Heated Shiatsu Massager",
       label: "Buy 3 & Get 15% Off",
       discount: 15,
-      price: 281.0, // example: 89.9 * 2 * 0.85
+      price: 341.0, // example: 89.9 * 2 * 0.85
       originalPrice: 399,
       note: "Deep Tissue, Cordless & Rechargeable",
       mostPopular: false,
